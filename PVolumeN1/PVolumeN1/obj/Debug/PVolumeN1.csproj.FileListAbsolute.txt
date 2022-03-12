@@ -1,0 +1,10 @@
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\bin\Debug\PVolumeN1.exe.config
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\bin\Debug\PVolumeN1.exe
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\bin\Debug\PVolumeN1.pdb
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.csprojAssemblyReference.cache
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.Form1.resources
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.Properties.Resources.resources
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.csproj.GenerateResource.cache
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.csproj.CoreCompileInputs.cache
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.exe
+D:\Documentos\Gabriel\Fatec\Fatec Sorocaba\2º Sem\LPII\Prática\LP2\PVolumeN1\PVolumeN1\obj\Debug\PVolumeN1.pdb
